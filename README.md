@@ -1,18 +1,6 @@
 ---
-title: Reproductor MP3 — Mark 1
-created: 2026-10-13
-time: ""
-creator: Claude
-last update: 2026-10-13
-update by: Gilbert
 type: readme
-status: borrador
-fase: ""
-area: gestion
-editor: Gilbert
-order: 0
-tags:
-  - type/readme
+created: 2026-10-13
 ---
 # Reproductor MP3 — Mark 1
 
