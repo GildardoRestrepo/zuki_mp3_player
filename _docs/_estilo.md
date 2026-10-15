@@ -54,6 +54,7 @@ tags:
 
 ---
 ## Enlaces
+[[mp3|Reproductor MP3]]
 [[proyectos|Proyectos Electrónica]]
 ```
 
@@ -170,6 +171,7 @@ ajusta solo estas piezas:
 - Todo lo demás (esquema de frontmatter, reglas, tipos, ADR) se reutiliza tal cual.
   Duplica `_plantilla.md` para arrancar cada documento nuevo.
 
+
 ---
 ## Enlaces
-[[proyectos_personal|Proyectos Electrónica]]
+[[mp3|Reproductor MP3]]

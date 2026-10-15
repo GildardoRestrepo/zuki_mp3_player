@@ -142,4 +142,4 @@ Distribuido bajo licencia MIT. Ver `LICENSE`.
 
 ---
 ## Enlaces
-[[proyectos_personal|Proyectos Electrónica]]
+[[mp3|Reproductor MP3]]
